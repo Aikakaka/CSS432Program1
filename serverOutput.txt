@@ -1,0 +1,26 @@
+Script started on Sat Apr 18 22:29:07 2020
+]0;aikau@csslab10:~/css432/program1[?1034h[aikau@csslab10 program1]$ ./server 51277g++ -pthread -std=c++11 server.cpp -o server
+]0;aikau@csslab10:~/css432/program1[aikau@csslab10 program1]$ g++ -pthread -std=c++11 server.cpp -o server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./server 51277[K
+Socket #: 3
+Accepted Socket #: 4
+connect starts
+main() : creating thread, 1
+Accepted Socket #: 4
+connect starts
+main() : creating thread, 1
+Accepted Socket #: 4
+connect starts
+main() : creating thread, 1
+Accepted Socket #: 4
+connect starts
+main() : creating thread, 1
+Accepted Socket #: 4
+connect starts
+main() : creating thread, 1
+Accepted Socket #: 4
+connect starts
+main() : creating thread, 1
+^C
+]0;aikau@csslab10:~/css432/program1[aikau@csslab10 program1]$ exit
+
+Script done on Sat Apr 18 22:30:01 2020

@@ -1,0 +1,35 @@
+Script started on Sat Apr 18 22:28:52 2020
+]0;aikau@csslab11:~/css432/program1[?1034h[aikau@csslab11 program1]$ ./server 51277g++ -pthread -std=c++11 server.cpp -o server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./client csslab10.uwb.edu 51277  20000 30 50 32115 100 321[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pg++ client.cpp -o client
+]0;aikau@csslab11:~/css432/program1[aikau@csslab11 program1]$ g++ client.cpp -o client[10P./server 51277g++ -pthread -std=c++11 server.cpp -o server[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./client csslab10.uwb.edu 51277  20000 30 50 3[K1
+Client Socket: 3
+Time in second: 0
+throughput in bps: 4.70119e+08
+Test #1: time = 510509 µsec, #reads = 24509, throughput 0.470119 Gbps
+]0;aikau@csslab11:~/css432/program1[aikau@csslab11 program1]$ ./client csslab10.uwb.edu 51277  20000 30 50 1[K2
+Client Socket: 3
+Time in second: 0
+throughput in bps: 2.6062e+09
+Test #2: time = 92088 µsec, #reads = 21555, throughput 2.6062 Gbps
+]0;aikau@csslab11:~/css432/program1[aikau@csslab11 program1]$ ./client csslab10.uwb.edu 51277  20000 30 50 2[K3
+Client Socket: 3
+Time in second: 0
+throughput in bps: 5.86482e+09
+Test #3: time = 40922 µsec, #reads = 20152, throughput 5.86482 Gbps
+]0;aikau@csslab11:~/css432/program1[aikau@csslab11 program1]$ ./client csslab10.uwb.edu 51277  20000 30 50 3[K[K[K[K[K[K[K14[K5 100 1
+Client Socket: 3
+Time in second: 0
+throughput in bps: 6.95856e+08
+Test #1: time = 344899 µsec, #reads = 23862, throughput 0.695856 Gbps
+]0;aikau@csslab11:~/css432/program1[aikau@csslab11 program1]$ ./client csslab10.uwb.edu 51277  20000 15 100 1[K2
+Client Socket: 3
+Time in second: 0
+throughput in bps: 5.4881e+09
+Test #2: time = 43731 µsec, #reads = 20168, throughput 5.4881 Gbps
+]0;aikau@csslab11:~/css432/program1[aikau@csslab11 program1]$ ./client csslab10.uwb.edu 51277  20000 15 100 2[K3
+Client Socket: 3
+Time in second: 0
+throughput in bps: 5.84553e+09
+Test #3: time = 41057 µsec, #reads = 20174, throughput 5.84553 Gbps
+]0;aikau@csslab11:~/css432/program1[aikau@csslab11 program1]$ exit
+
+Script done on Sat Apr 18 22:29:55 2020
